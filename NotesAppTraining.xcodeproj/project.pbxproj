@@ -13,6 +13,8 @@
 		4E75D98222CF4DFF001B7744 /* NotesAppTraining.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4E75D98022CF4DFF001B7744 /* NotesAppTraining.xcdatamodeld */; };
 		4E75D98422CF4E00001B7744 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E75D98322CF4E00001B7744 /* Assets.xcassets */; };
 		4E75D98722CF4E00001B7744 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E75D98522CF4E00001B7744 /* LaunchScreen.storyboard */; };
+		4E75D98F22CF50E8001B7744 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E75D98E22CF50E8001B7744 /* TableViewCell.swift */; };
+		4E75D99122CF538A001B7744 /* NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E75D99022CF538A001B7744 /* NavigationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4E75D98322CF4E00001B7744 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E75D98622CF4E00001B7744 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E75D98822CF4E00001B7744 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E75D98E22CF50E8001B7744 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		4E75D99022CF538A001B7744 /* NavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				4E75D98522CF4E00001B7744 /* LaunchScreen.storyboard */,
 				4E75D98822CF4E00001B7744 /* Info.plist */,
 				4E75D98022CF4DFF001B7744 /* NotesAppTraining.xcdatamodeld */,
+				4E75D98E22CF50E8001B7744 /* TableViewCell.swift */,
+				4E75D99022CF538A001B7744 /* NavigationController.swift */,
 			);
 			path = NotesAppTraining;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E75D98222CF4DFF001B7744 /* NotesAppTraining.xcdatamodeld in Sources */,
+				4E75D98F22CF50E8001B7744 /* TableViewCell.swift in Sources */,
+				4E75D99122CF538A001B7744 /* NavigationController.swift in Sources */,
 				4E75D97C22CF4DFF001B7744 /* ViewController.swift in Sources */,
 				4E75D97A22CF4DFF001B7744 /* AppDelegate.swift in Sources */,
 			);
